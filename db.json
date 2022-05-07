@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "user": "hello",
+      "pass": "123",
+      "id": 1
+    },
+    {
+      "user": "hello",
+      "pass": "123",
+      "id": 2
+    },
+    {
+      "user": "Prashant",
+      "pass": "987654321",
+      "id": 3
+    },
+    {
+      "user": "Prashant",
+      "pass": "123",
+      "id": 4
+    },
+    {
+      "user": "Prashant",
+      "pass": "123",
+      "id": 5
+    },
+    {
+      "user": "Suraj",
+      "pass": "123",
+      "id": 6
+    },
+    {
+      "user": "Prashant",
+      "pass": "123",
+      "id": 7
+    },
+    {
+      "user": "Prashant",
+      "pass": "123",
+      "id": 8
+    },
+    {
+      "user": "Maurya",
+      "pass": "1234",
+      "id": 9
+    },
+    {
+      "email": "mauryaprashant98@gmail.com",
+      "user": "Prashant",
+      "pass": "maurya",
+      "date": "1998-12-09",
+      "id": 10
+    },
+    {
+      "email": "mauryaprashant98@gmail.com",
+      "firstname": "Prashant",
+      "lastname": "Maurya",
+      "pass": "123",
+      "date": "2022-05-06",
+      "id": 11
+    }
+  ]
+}
