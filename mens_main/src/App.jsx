@@ -1,6 +1,7 @@
 import React from 'react'
 import { Route,Routes } from 'react-router-dom'
 import {Menspage} from './components/mens_page'
+import {Womenspage} from './components/Womens_page'
 // import { useEffect,useState } from "react";
 import {Nike} from"./components/Nike"
 import { Shivani } from './components/Shivani';
@@ -9,6 +10,7 @@ const App =()=> {
   return (
     <div>
       <Menspage />
+      <Womenspage />
       <Routes>
         {/* <Route path='/polo' element={<Shivani></Shivani>}> */}
           
