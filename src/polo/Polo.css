@@ -1,0 +1,27 @@
+#box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+    text-align: start;
+    /* border: 1px solid; */
+    width: 80%;
+    margin: auto;
+    margin-top: 4%;
+  }
+  /* #box div{
+    /* border: 1px solid; 
+  } */
+  img{
+    width: 100%;
+  }
+  #desc{
+    margin-top: 3%;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .sort{
+    width: 250px;
+    height: 30px;
+    margin-top: 50px;
+  }
+  

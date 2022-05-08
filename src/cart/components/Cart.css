@@ -1,0 +1,279 @@
+#mainDiv{
+    background-color: #eeeeee;
+    display: flex;
+    /* justify-content: center; */
+    height:200vh;
+}
+#MainLeftDiv{
+  width: 65%;
+
+}
+#MainRightDiv{
+  width: 27%;
+  background-color: #ffffff;
+  height: 300px;
+  margin-top:2% ;
+  margin-left: 1.5%;
+  margin-right: 16%;
+  
+   
+}
+/* #MainRightDiv>div:nth-child(1){
+     
+    
+  } */
+#check{
+    margin-top:50%;
+    margin-left:40%
+}
+#div1{
+  background-color: #ffffff;
+  height: 40px;
+  margin-left: 25%;
+  margin-top: 3%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+   
+}
+#div1>div:nth-child(2){
+    font-size: 14.5px;
+}
+#mybag{
+    font-size: 17px;
+    font-weight: 700;
+    
+}
+#div2{
+    background-color: #ffffff;
+    /* height: 150px; */
+    margin-top: 1%;
+    margin-left: 25%;
+    padding:24px 30px;
+}
+
+#prodDivflex{
+    display: flex;
+    gap:5%;
+    margin-bottom: 25px;;
+    margin-top: 25p
+}
+/* #imgflex{
+    display: flex;
+    gap:15pxx;
+    margin-bottom: 25px;;
+    margin-top: 25p
+} */
+#prodDivflex>div>h5{
+ font-size: 16px;
+ margin:3px;
+}
+#prodDivflex>div>p{
+  margin:3px;
+  color:gray;
+}
+#prodDivflex>div>div>p{
+    margin:3px;
+    color:gray;
+  }
+#sizeQyt{
+    display: flex;
+    gap: 12px;
+    color:gray;
+}
+#sizeQyt>div{
+    margin-top: 2px;
+    
+}
+#waistsize{
+    padding:2px;
+    border:04px;
+}
+#div3{
+    background-color: #ffffff;
+    height: 50px;
+    margin-top: 1%;
+    margin-left: 25%;
+  
+}
+#subtotalflex{
+    display: flex;
+    justify-content:flex-end;
+    gap: 3%;
+    margin-right: 3%;
+    padding-top: 2%;
+    font-weight: 500;
+}
+#btnsave{
+    font-size: 15px;
+    background-color:white;
+    border:.5px;
+    padding:2px 10px;
+    margin:5px;
+}
+#btnsave:hover{
+   
+    border:1px;
+    
+}
+#multiply{
+    font-size: 20px;
+}
+#div4{
+    background-color: #f8f8f8;
+    /* height: 200px; */
+    margin-top: 1%;
+    margin-left: 25%;
+    /* text-align: center; */
+    padding: 30px;
+}
+#div4>div:nth-child(1){
+    font-weight: 500;
+    font-size: 17px;
+    padding-top: 5%;
+    
+}
+#div4>div:nth-child(2){
+    font-weight: 200;
+    color:gray;
+    padding-top: 2%;
+    
+}
+#div4>div:nth-child(3){
+    display: flex;
+}
+#fixedimgflex{
+    display: flex;
+    margin-left: 11%;
+}
+#image1{
+    width: 40%;
+    padding:10px;
+    background-color: white;
+}
+#image1>p{
+    color:gray;
+}
+#image1>div:nth-child(1){
+    margin-top: 15px;
+    color:gray;
+}
+#image1>button{
+    margin-left: 30px;
+    font-size: 15px;
+    padding:3px 8px;
+}
+ 
+#image2{
+    width:40%;
+    padding:10px;
+    margin-left: 20px;
+    background-color: white;
+}
+#image2>p{
+    color:gray;
+}
+#image2>div:nth-child(1){
+    margin-top: 15px;
+    color:gray;
+}
+#btndiv{
+    width: 100px;
+    /* height:30px; */
+    border:2px solid #018849;
+    padding:5px 12px;
+    font-size:14px;
+    margin-left: 28px;
+    color:black;
+}
+#image2>button{
+    margin-left:30px;
+    font-size: 15px;
+    padding:3px 8px;
+}
+ 
+#viewbag{
+    /* border: 018849; */
+    border:0px;
+    border-color: #018849;
+    text-align: center;
+    font-size: 15px;
+    padding:10px 80px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#div5{
+    background-color: #ffffff;
+    height: 120px;
+    margin-top: 1%;
+    margin-left: 25%;
+    
+ 
+}
+#bus{
+    margin-top: 15px;
+}
+#BusD{
+    display: flex;
+    width: 90%;
+    gap: 15px;
+    margin-left: 5%;
+}
+#DELIVERY>div:nth-child(1){
+font-size: 17px;
+font-weight: 600;
+margin-top: 10px
+}
+#DELIVERY>div:nth-child(2){
+    font-size: 15px;
+    font-weight: 350;
+    margin-top: 10px
+ }
+#DELIVERY>div:nth-child(3){
+    font-size: 15px;
+    font-weight: 350;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.flextotal{
+    display: flex;
+    justify-content: space-between;
+}
+.flextotal>div:nth-child(1){
+    font-weight: 600;
+    font-size: 16px;
+}
+#borderMargin{
+    margin:7%;
+  
+}
+#toptotal{
+   display: flex; 
+}
+#toptotal>div:nth-child(1){
+    font-weight: 650;
+    font-size: 17px;
+ }
+ #hr{
+     border: 0.2px solid rgb(214, 213, 213);
+ }
+ #checkoutbtn{
+     background-color:#018849;
+     color:white;
+     padding:2.5% 33%;
+     border:0px;
+     font-size: 17px;
+     font-weight: 600;
+     margin-top: 20px;
+     margin-bottom: 10px;
+ }
+ #cardName{
+    display: flex;
+    margin-top: 10px;
+ }
+ #oneline{
+     font-size: 14.5px;
+     /* width:100% */
+     margin-top: 10px;
+ }
+  

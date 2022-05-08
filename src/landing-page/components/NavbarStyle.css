@@ -1,0 +1,54 @@
+.navbackground{
+    background-color: #2D2D2D;
+}
+.logo{
+    font-family: futura-pt,sans-serif;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: -5px;
+    border-right: 1px solid #525050;
+    line-height: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.nav_wo_men{
+    line-height: 32px;
+    padding: 0px 25px 0px 25px;
+    border-right: 1px solid #525050;
+}
+.nav_wo_men:hover{
+    background-color: #525050;
+}
+
+.input_field{
+    width: 750px;
+    border-radius: 50px;
+}
+
+.user{
+    color: white;
+}
+
+.below_nav{
+    display: flex;
+    background-color: #CCFF00;
+    vertical-align: middle;
+}
+
+
+.c_1 > button{
+    font-size: 13px;
+    background-color: transparent;
+    color: black;
+    border:2px solid black;
+    padding: 5px 20px 5px 20px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: 700;
+
+}
+.c_2 > strong{
+    font-size: 14px;
+    color: black;
+    letter-spacing: 2px;
+}

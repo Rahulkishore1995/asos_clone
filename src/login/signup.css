@@ -1,0 +1,104 @@
+body{
+    background-color:#eeeeee ;
+}
+.signup{
+    /* text-align: center; */
+    margin: auto;
+    margin-top: 30px;
+    /* border: 2px solid red; */
+    width:40%;
+    height:800px;
+    background-color:white
+    
+  }
+  .identity{
+    color:green
+  }
+  #go_shop{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 10px 40px;
+  }
+  #go_shop:hover{
+    background-color: white;
+    color:black
+  }
+  h3{
+    color:red
+  }
+  .adjust{
+    margin-left:-10%;
+    margin-top: 10%;
+    font-size: large;
+
+
+    
+  
+  }
+  .adjust2{
+    margin-left:-2%;
+    margin-top: 10%
+  }
+  .inp_box{
+    width:330px;
+    height:45px;
+    margin-top: 0px;
+  }
+
+.join{
+    padding:13px 125px;
+    margin-top: 30px;
+    background-color: black;
+    color:white;
+    font-size: large;
+    font-weight: bolder;
+    cursor: pointer;
+    margin-left:80px
+
+}
+.join:hover{
+    background-color:grey;
+}
+.logo45{
+    width:100px;
+    height:45px;
+}
+.to{
+    margin-left: -50%;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.to1{
+    margin-left: 50%;
+    font-size: 25px;
+    margin-top: -38px;
+    color:black
+}
+.inp_box1{
+    width:330px;
+    height:45px;
+    margin-top: 80px;
+  }
+  #make{
+    font-size: small;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.size{
+    font-size: larger;
+}
+.join1{
+  padding:13px 125px;
+  margin-top: 30px;
+  background-color: black;
+  color:white;
+  font-size: large;
+  font-weight: bolder;
+  cursor: pointer;
+  
+
+}
+.join1:hover{
+  background-color:grey;
+}

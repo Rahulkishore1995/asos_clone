@@ -1,0 +1,88 @@
+#firsttwobox {
+    display: flex;
+    height: 65px;
+    width: 100%;
+    margin-bottom: 0%;
+    border-bottom: 1px solid wheat;
+  
+  }
+  
+  #textfirst>p {
+    margin: 0;
+    font-style: bold;
+  }
+  
+  #textsecond>p {
+    margin: 0;
+    font-style: bold;
+  }
+  
+  #leftmensdiv {
+    background-color: rgb(156, 240, 224);
+    width: 100%;
+    height:75px
+  
+  
+  }
+  
+  #textfirst {
+    display: flexbox;
+    gap: none;
+    justify-content: center;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  
+  #rightmensdiv {
+    background-color: rgb(255, 56, 92);
+    width: 100%;
+    margin-bottom: 0%;
+    height:75px
+  
+  }
+  
+  #textsecond {
+    display: flexbox;
+    gap: none;
+    justify-content: center;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: 2px;
+  }
+  .pic{
+      width:400px;
+      height:600px;
+      
+  }
+  .pic_div{
+      margin-top: -19%;
+      margin-left: -27%;
+  }
+  .desc{
+      margin-left:55%;
+      margin-top: 10%;
+      font-size: 18px;
+      width:400px
+  }
+  .price{
+      margin-left: 23%;
+      font-weight: bolder;
+      font-size: 20px;
+      margin-top: 2%;
+  }
+  .add{
+      padding:10px 60px;
+      margin-left: 34%;
+      background-color: green;
+      color: white;
+      border: none;
+      margin-top: 2%;
+  }
+  .size{
+      width:150px;
+      height:80px;
+      margin-left: 50%;
+      
+  }
+  

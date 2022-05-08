@@ -1,0 +1,194 @@
+/* #box{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 15px;
+    text-align: start;
+    /* border: 1px solid; */
+    /* width: 80%;
+    margin: auto;
+    margin-top: 18%;
+  }
+ 
+  img{
+    width: 100%;
+  }
+  #desc{
+    margin-top: 3%;
+    font-size: 15px;
+    line-height: 20px;
+  }
+    */
+
+    #mensmain {
+      /* border: 1px solid black; */
+      /* display: flex; */
+      display: grid;
+      /* grid-gap: 10px; */
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: auto;
+      justify-items: center;
+      margin-top: 0%;
+    }
+    
+    #firsttwobox {
+      display: flex;
+      height: 65px;
+      width: 100%;
+      margin-bottom: 0%;
+      border-bottom: 1px solid wheat;
+    
+    }
+    
+    #textfirst>p {
+      margin: 0;
+      font-style: bold;
+    }
+    
+    #textsecond>p {
+      margin: 0;
+      font-style: bold;
+    }
+    
+    #leftmensdiv {
+      background-color: rgb(156, 240, 224);
+      width: 100%;
+      height:90px
+    
+    
+    }
+    
+    #textfirst {
+      display: flexbox;
+      gap: none;
+      justify-content: center;
+      text-align: center;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    
+    #rightmensdiv {
+      background-color: rgb(255, 56, 92);
+      width: 100%;
+      margin-bottom: 0%;
+      height:90px
+    
+    }
+    
+    #textsecond {
+      display: flexbox;
+      gap: none;
+      justify-content: center;
+      text-align: center;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    
+    #divimage1 {
+      margin-top: 0%;
+    width: 105%;
+    }
+    
+    #image1 {
+      width: 100%;
+      height: 180px;
+      margin-top: 0%;
+    }
+    
+    #divimage2 {
+      margin-top: 3%;
+      width:200%
+    }
+    
+    #fourpictures{
+      display: flex;
+      height: 500px;
+      width: 95%;
+      margin-top: 3%;
+      margin-bottom: 3%;
+      margin-left: 7%;
+      
+    }
+    .mainbrand{
+      padding-left: 1%;
+      padding-right: 1%;
+      text-decoration: none;
+      color: black;
+    }
+    
+    .mainbrand1{
+      width: 100%;
+      height: 380px;
+    }
+    /* .textforfour{
+      justify-content: center;
+    }
+    #textbrand{
+      display: flex;
+      justify-content: space-evenly;
+    } */
+    #banner2{
+      background-color: rgb(255,56,92);
+      height: 260px;
+      width: 100%;
+      justify-content: center;
+      text-align: center;
+    }
+    #bannerimage2{
+      margin-top: 2%;
+      margin-bottom: 2%;
+      width: 230px;
+    }
+    #bannertext>h1{
+    font-weight: 1000;
+    letter-spacing: 2px;
+    font-style: bold;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: black;
+    font-style: italic;
+    }
+    #ptag2{
+      font-weight: 1000;
+      letter-spacing: 2px;
+    }
+    #bannersmalltext{
+      font-family: futura-pt,FuturaStd,Helvetica,Arial,sans-serif;
+        font-size: 12px;
+    }
+    #shopnow{
+      display: flex;
+      width: 80%;
+      margin-top: 4%;
+      gap: 5%;
+    }
+    .shopnowimage{
+      width: 100%;
+      height: 640px;
+    }
+    
+    
+    .shopnowtext{
+      justify-content: center;
+      /* border: 2px solid green; */
+    
+    }
+    #trend{
+      justify-content: center;
+      margin-top: 3%;
+  
+    }
+    #logoimg{
+      display: flex;
+      margin-left: 5%;
+      margin-top: 5%;
+    }
+    #logoimg>img{
+      width: 15%;
+    }
+    
+    .shop_now{
+      background-color: black;
+      color:white;
+      font-weight: bolder;
+    }
+    

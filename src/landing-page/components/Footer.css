@@ -1,0 +1,36 @@
+.footer{
+    background-color: #EEEEEE;
+}
+.footer_ele{
+    list-style: none;
+
+}
+.footer_ele > .head{
+    color: #666666;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    
+}
+
+.footer_ele > li > a{
+    font-size: 13px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: 400;
+}
+.footer_ele > li {
+    font-size: 13px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: 400;
+}
+.bottom_{
+    background-color: #DDDDDD;
+}
+.bottom_content{
+    font-size: 13px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: 400;
+}
